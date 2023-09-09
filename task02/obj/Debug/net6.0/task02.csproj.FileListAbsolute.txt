@@ -1,0 +1,16 @@
+C:\Examples\task02\obj\Debug\net6.0\task02.GlobalUsings.g.cs
+C:\Examples\task02\obj\Debug\net6.0\task02.csproj.AssemblyReference.cache
+C:\Examples\task02\obj\Debug\net6.0\task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\task02\obj\Debug\net6.0\task02.AssemblyInfoInputs.cache
+C:\Examples\task02\obj\Debug\net6.0\task02.AssemblyInfo.cs
+C:\Examples\task02\obj\Debug\net6.0\task02.csproj.CoreCompileInputs.cache
+C:\Examples\task02\bin\Debug\net6.0\task02.exe
+C:\Examples\task02\bin\Debug\net6.0\task02.deps.json
+C:\Examples\task02\bin\Debug\net6.0\task02.runtimeconfig.json
+C:\Examples\task02\bin\Debug\net6.0\task02.dll
+C:\Examples\task02\bin\Debug\net6.0\ref\task02.dll
+C:\Examples\task02\bin\Debug\net6.0\task02.pdb
+C:\Examples\task02\obj\Debug\net6.0\task02.dll
+C:\Examples\task02\obj\Debug\net6.0\ref\task02.dll
+C:\Examples\task02\obj\Debug\net6.0\task02.pdb
+C:\Examples\task02\obj\Debug\net6.0\task02.genruntimeconfig.cache
